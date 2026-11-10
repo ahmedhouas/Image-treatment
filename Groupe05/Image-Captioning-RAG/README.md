@@ -30,7 +30,7 @@ The main objectives are:
 5. Construct a vector-based knowledge base.
 6. Validate data integrity, embedding quality, document relationships, and leakage prevention.
 7. Prepare a shared and reproducible dataset release for subsequent experiments.
-8. Compare different RAG approaches for image captioning.
+8. Compare different RAG approaches for image captioning..
 
 ## 3. Dataset
 
